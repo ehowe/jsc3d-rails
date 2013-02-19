@@ -22,7 +22,7 @@ whether the asset pipeline is being used.
 
 ### Rails 3.1 or greater (with asset pipeline *enabled*)
 
-The jquery and jquery-ujs files will be added to the asset pipeline and available for you to use. If they're not already in `app/assets/javascripts/application.js` by default, add these lines:
+The jsc3d files will be added to the asset pipeline and available for you to use. If they're not already in `app/assets/javascripts/application.js` by default, add these lines
 
 ```js
 //= require jsc3d.console
